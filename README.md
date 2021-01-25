@@ -15,7 +15,7 @@ to easilydeceive people.
 * `cd crow`
 * `bash install.sh`
 * `bash crow.sh`
-* 
+
 
 ## Features :
 #### [+] Latest Login Pages !
