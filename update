@@ -1,0 +1,57 @@
+#colour section
+red='\033[1;31m'
+rset='\033[0m'
+grn='\033[1;32m'
+ylo='\033[1;33m'
+#script coding starts
+clear
+echo " "
+echo " "
+echo '
+                  
+
+                     ────────╔╗──╔╗
+                     ────────║║─╔╝╚╗
+                     ╔╗╔╦══╦═╝╠═╩╗╔╬══╗
+                     ║║║║╔╗║╔╗║╔╗║║║║═╣
+                     ║╚╝║╚╝║╚╝║╔╗║╚╣║═╣
+                     ╚══╣╔═╩══╩╝╚╩═╩══╝
+                     ───║║
+                     ───╚╝
+                                 v 1.0
+'|lolcat
+echo " "
+echo " "
+sleep 6.0
+clear
+echo -e "$red                         CHECKING..>$rset"
+sleep 2.0
+clear
+echo -e "$red                         CHECKING...>$rset"
+sleep 2.0
+clear
+echo -e "$red                         CHECKING....>$rset"
+sleep 2.0
+clear
+echo -e "$red                         CHECKING.....>$rset"
+sleep 2.0
+clear
+echo " "
+echo " "
+echo -e "$grn                UPDATING THE SMF PLEASE wait$rset"
+sleep 2.0
+cd $HOME
+rm -rf SMF
+git clone https://github.com/kanekikon/crow
+clear
+echo " "
+echo -e "$grn               UPDATED CHECK IT NOW...$rset"
+sleep 3.0
+echo " "
+cd $HOME
+cd SMF
+unzip techcochi.zip
+rm -rf techcochi.zip
+bash smf.sh
+clear
+sleep 1.0
