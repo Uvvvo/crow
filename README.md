@@ -4,7 +4,7 @@ to easilydeceive people.
 (The tool is currently under development)
 
 # Telegram
-<br><b>~~> <a href="https://t.me/SSX3l">Telegram</a> <~~</b><br>
+<br><b>~~> <a href="https://t.me/CTITIT">Telegram</a> <~~</b><br>
 <br><b>~~> <a href="https://t.me/SSScw">Telegram</a> <~~</b><br>
 
 ## Installation
