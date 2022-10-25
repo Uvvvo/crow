@@ -4,14 +4,14 @@ to easilydeceive people.
 (The tool is currently under development)
 
 # Telegram
-<br><b>~~> <a href="https://t.me/CTITIT">Telegram</a> <~~</b><br>
-<br><b>~~> <a href="https://t.me/SSScw">Telegram</a> <~~</b><br>
+<br><b>~~> <a href="https://t.me/CTlTl">Telegram</a> <~~</b><br>
+<br><b>~~> <a href="https://t.me/STITIT">Telegram</a> <~~</b><br>
 
 ## Installation
 * `apt update`
 * `apt upgrade`
 * `pkg install git`
-* `git clone https://github.com/kanekikon/crow.git`
+* `git clone https://github.com/uvvvo/crow.git`
 * `cd crow`
 * `bash install.sh`
 * `bash crow.sh`
