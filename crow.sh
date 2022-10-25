@@ -19,7 +19,7 @@
   printf " \e[31m ██║  ██╗ \e[0m\e[1;32m ██╔══██╗ \e[0m\e[1;33m ██║  ██║ \e[0m\e[1;34m  ████╔═████║  \e[0m\n"
   printf " \e[31m ╚█████╔╝ \e[0m\e[1;32m ██║  ██║ \e[0m\e[1;33m ╚█████╔╝ \e[0m\e[1;34m  ╚██╔╝ ╚██╔╝  \e[0m\n"
   printf " \e[31m  ╚════╝  \e[0m\e[1;32m ╚═╝  ╚═╝  \e[0m\e[1;33m ╚════╝  \e[0m\e[1;34m   ╚═╝   ╚═╝   \e[0m\e[40;38;5;82mversion\e[30;48;5;82m1.0\e[0m\n"
-  printf " \e[41m Telegram #SSX3I  By Hussain Yacoub \e[0m\n"
+  printf " \e[41m Telegram @CTlTl  By Hussain Yacoub \e[0m\n"
   printf " \n"
   }
   menu() {
