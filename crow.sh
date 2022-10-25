@@ -1,8 +1,8 @@
   #!/bin/bash
   #Code By Hussain Yacoub
-  #https://T.me/SSxei
+  #https://T.me/CTlTl
   #https://T.me/SSScw
-  #https://github.com/kanekikon
+  #https://github.com/uvvvo
   
   trap 'printf "\n";stop;exit 1' 2
   deps() {
