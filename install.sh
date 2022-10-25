@@ -49,6 +49,6 @@ sleep 4
 echo ""
 echo ""
 echo " Join with us " | lolcat
-xdg-open https://t.me/SSX3l
+xdg-open https://t.me/CTlTl
 echo ""
 
